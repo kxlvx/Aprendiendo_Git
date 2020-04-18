@@ -1,3 +1,1 @@
-Nombre:DC
-Apellido:Calva Vicente
-Vive: Bellavista y Machala
+Nombre: Darwin Calva
